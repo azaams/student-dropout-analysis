@@ -52,7 +52,7 @@ Tautan Dashboard: [Link Dashboard](https://public.tableau.com/app/profile/azzam.
 ## Menjalankan Sistem Machine Learning
 Solusi Machine Learning telah dibungkus ke dalam prototype aplikasi web interaktif menggunakan Streamlit. Aplikasi ini memungkinkan pengguna (seperti tim HR atau akademik) untuk mengunggah file CSV berisi data mahasiswa dan mendapatkan hasil prediksi status dropout secara otomatis.
 
-Tautan Streamlit Community Cloud: [Link Streamlit]('')
+Tautan Streamlit Community Cloud: [Link Streamlit]('https://azaams-student-dropout-analysis-app-5hqjrt.streamlit.app/')
 ```
 Untuk menjalankan sistem dan mereproduksi hasil dari model Machine Learning ini, ikuti langkah-langkah berikut:
 
