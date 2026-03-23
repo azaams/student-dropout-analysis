@@ -9,7 +9,7 @@ st.markdown("Aplikasi ini dibuat untuk membantu tim HR dan Manajemen Jaya Jaya I
 
 @st.cache_resource
 def load_model():
-    return joblib.load('model.joblib')
+    return joblib.load('model/model.joblib')
 
 try:
     model = load_model()
