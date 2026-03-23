@@ -52,7 +52,7 @@ Tautan Dashboard: [Link Dashboard](https://public.tableau.com/app/profile/azzam.
 ## Menjalankan Sistem Machine Learning
 Solusi Machine Learning telah dibungkus ke dalam prototype aplikasi web interaktif menggunakan Streamlit. Aplikasi ini memungkinkan pengguna (seperti tim HR atau akademik) untuk mengunggah file CSV berisi data mahasiswa dan mendapatkan hasil prediksi status dropout secara otomatis.
 
-Tautan Streamlit Community Cloud: [Masukkan Link Aplikasi Streamlit Anda Di Sini, contoh:
+Tautan Streamlit Community Cloud: [Link Streamlit]('')
 ```
 Untuk menjalankan sistem dan mereproduksi hasil dari model Machine Learning ini, ikuti langkah-langkah berikut:
 
@@ -64,7 +64,7 @@ Untuk menjalankan sistem dan mereproduksi hasil dari model Machine Learning ini,
 
 4. Jalankan setiap cell secara berurutan (Run All).
 
-5. Pada bagian akhir, kode akan menghasilkan metrik evaluasi (seperti Accuracy, Precision, dan Recall) serta mengekspor file CSV bersih (mahasiswa_jaya_institut_cleaned.csv) yang digunakan sebagai sumber data pada dashboard Tableau.
+5. Pada bagian akhir, kode akan menghasilkan metrik evaluasi (seperti Accuracy, Precision, dan Recall) serta mengekspor file CSV bersih (employee_data_cleaned_jaya_institut.csv) yang digunakan sebagai sumber data pada dashboard Tableau.
 ```
 
 ## Conclusion
